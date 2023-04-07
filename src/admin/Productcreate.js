@@ -1,8 +1,8 @@
 import React from 'react'
-
+import Wrapper from './Components/Wrapper'
 function Productcreate() {
   return (
-    <div>Productcreate</div>
+    <Wrapper>Product create</Wrapper>
   )
 }
 

@@ -1,8 +1,8 @@
 import React from 'react'
-
+import Wrapper from './Components/Wrapper'
 function Productedit() {
   return (
-    <div>Productedit</div>
+    <Wrapper>Product edit</Wrapper>
   )
 }
 
